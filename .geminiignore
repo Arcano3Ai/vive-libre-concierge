@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.github
+*.log
+error_log.txt
+server_output.log
+package-lock.json
+vive-libre-html.txt
+products.json
+products_clean.json
+products_nobom.json
+assets

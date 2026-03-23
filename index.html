@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vive Libre | Resort Glamping de Lujo</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <!-- Scripts & Styles -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  </head>
+  <body>
+    <!-- Clean Luxury Header -->
+    <nav class="navbar" id="navbar">
+      <div class="nav-container">
+        <a href="#" class="logo">VIVE<span>LIBRE</span></a>
+        <ul class="nav-links">
+          <li><a href="#collection">Hospedaje</a></li>
+          <li><a href="#experiences">Experiencias</a></li>
+          <li><a href="#team-building">Empresas</a></li>
+          <li><a href="https://wa.me/528121912778" class="btn-reserva">RESERVAR</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      <!-- Hero Section -->
+      <section class="hero-section" id="hero">
+        <div class="parallax-bg hero-bg" style="background-image: url('img/ElCotorro-ExteriorHero.jpg');"></div>
+        <div class="hero-visual" id="hero-visual"></div>
+        <div class="hero-content">
+          <h4 class="reveal">Santiago, Nuevo León</h4>
+          <h1 class="reveal">VEN, VIVE LIBRE, <span>DISFRUTA.</span></h1>
+          <p class="reveal">Siente la sierra, conecta con tu equipo y la naturaleza en nuestro resort ultra-premium.</p>
+          <div class="hero-actions reveal">
+            <button class="btn-primary" onclick="document.getElementById('collection').scrollIntoView()">VER CABAÑAS</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Cabin Collection (Carousel Inside Cards) -->
+      <section id="collection" class="collection-section">
+        <div class="container">
+          <div class="section-header">
+            <h2 class="reveal">Hospedaje de Autor</h2>
+            <p class="reveal">Refugios privados diseñados para el descanso absoluto.</p>
+          </div>
+          <div class="cabin-grid" id="cabin-grid">
+            <!-- Dynamically populated by main.js with Swiper carousels -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Experiences -->
+      <section id="experiences" class="experience-section">
+        <div class="container">
+          <div class="resort-grid">
+            <div class="resort-text">
+              <h4 class="reveal">RECONECTA</h4>
+              <h2 class="reveal">Experiencias Holísticas</h2>
+              <p class="reveal">Desde Yoga al amanecer hasta Sound Healing bajo las estrellas. Curamos cada momento para su bienestar.</p>
+              <ul class="check-list reveal">
+                <li><i data-lucide="check"></i> Yoga & Meditación</li>
+                <li><i data-lucide="check"></i> Sound Healing</li>
+                <li><i data-lucide="check"></i> Senderismo Guiado</li>
+              </ul>
+            </div>
+            <div class="resort-image reveal">
+              <img src="img/image_4.jpg" alt="Experiencia" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Team Building -->
+      <section id="team-building" class="corporate-section">
+        <div class="container">
+          <div class="resort-grid alternate">
+            <div class="resort-text">
+              <h4 class="reveal">LIDERAZGO</h4>
+              <h2 class="reveal">Team Building</h2>
+              <p class="reveal">Programas diseñados para fortalecer el ADN de su equipo en un entorno de alto impacto.</p>
+              <a href="https://wa.me/528121912778" class="btn-outline">MÁS INFORMACIÓN</a>
+            </div>
+            <div class="resort-image reveal">
+              <img src="img/Home-TeamBuilding-Banner.jpg" alt="Team Building" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Documents -->
+      <section id="manuals" class="docs-section">
+        <div class="container">
+          <div class="docs-grid">
+            <a href="manuals/REGLAMENTO - VIVE LIBRE 2025.pdf" target="_blank" class="doc-item reveal">
+              <i data-lucide="file-text"></i>
+              <span>Reglamento 2025</span>
+            </a>
+            <a href="manuals/INSTRUCTIVO - VIVE LIBRE 2025.pdf" target="_blank" class="doc-item reveal">
+              <i data-lucide="info"></i>
+              <span>Instructivo</span>
+            </a>
+            <a href="manuals/POLITICA DE HOSPEDAJE - VIVE LIBRE 2025.pdf" target="_blank" class="doc-item reveal">
+              <i data-lucide="shield"></i>
+              <span>Políticas</span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- The Concierge (Floating Bot) -->
+    <div class="bot-trigger" id="bot-launcher">
+      <i data-lucide="message-circle"></i>
+    </div>
+
+    <div class="bot-panel" id="bot-window">
+      <div class="bot-header">
+        <div class="bot-info">
+          <div class="bot-avatar">VL</div>
+          <div>
+            <h4>Mayordomo</h4>
+            <span class="online">En línea</span>
+          </div>
+        </div>
+        <button id="close-bot"><i data-lucide="x"></i></button>
+      </div>
+      <div class="bot-chat" id="bot-messages">
+        <div class="msg bot">Distinguidos días. ¿Cómo puedo asistirle con su reserva en Vive Libre?</div>
+      </div>
+      <div class="bot-footer">
+        <input type="text" id="bot-input" placeholder="Escriba su mensaje..." />
+        <button id="send-bot-msg"><i data-lucide="send"></i></button>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <a href="#" class="logo">VIVE<span>LIBRE</span></a>
+        <p>&copy; 2025 Vive Libre Travel Club. Todos los derechos reservados.</p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://npmcdn.com/flatpickr/dist/l10n/es.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

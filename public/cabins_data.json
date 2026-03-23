@@ -1,0 +1,91 @@
+[
+  {
+    "id": "pajaro-azul",
+    "title": "Pájaro Azul",
+    "price": "3100.00",
+    "description": "El Pájaro Azul, construida en contenedor de lujo y rodeada de naturaleza, es el refugio ideal para aventureros y amantes de lo rústico. Incluye ventana en el techo justo arriba de la cama para ver las estrellas.",
+    "images": [
+      "img/image_9.jpg",
+      "img/image_1.jpg",
+      "img/image_2.jpg"
+    ]
+  },
+  {
+    "id": "el-buho",
+    "title": "El Búho",
+    "price": "3900.00",
+    "description": "El Búho combina elegancia y naturaleza. Inspirada en las carpas africanas, ofrece un refugio íntimo con malla de descanso volando y vista infinita.",
+    "images": [
+      "img/El-Buho.jpg",
+      "img/image_1.jpg",
+      "img/image_2.jpg",
+      "img/image_3.jpg"
+    ]
+  },
+  {
+    "id": "el-colibri",
+    "title": "El Colibrí",
+    "price": "3900.00",
+    "description": "El nido perfecto para parejas. Moderno diseño en contenedor con jacuzzi al aire libre y conexión directa con el bosque.",
+    "images": [
+      "img/El-Colibri.png",
+      "img/image_4.jpg",
+      "img/image_5.jpg"
+    ]
+  },
+  {
+    "id": "el-aguila",
+    "title": "El Águila",
+    "price": "3900.00",
+    "description": "Villa alpina para un escape romántico. Cuenta con red catamarán, jacuzzi temp. ambiente y chimenea.",
+    "images": [
+      "img/El-Aguila.jpg",
+      "img/image_6.jpg",
+      "img/image_7.jpg"
+    ]
+  },
+  {
+    "id": "el-aguila-2",
+    "title": "El Águila 2",
+    "price": "3900.00",
+    "description": "Cabaña alpina moderna. Mayor amplitud, chimenea y espacios pensados para disfrutar del paisaje en pareja.",
+    "images": [
+      "img/image_3.jpg",
+      "img/image_6.jpg",
+      "img/image_7.jpg"
+    ]
+  },
+  {
+    "id": "el-cotorro",
+    "title": "El Cotorro",
+    "price": "3900.00",
+    "description": "Villa de lujo elegante y cálida. El escenario perfecto para aniversarios y escapadas románticas premium.",
+    "images": [
+      "img/ElCotorro-ExteriorHero.jpg",
+      "img/image_8.jpg",
+      "img/image_10.jpg"
+    ]
+  },
+  {
+    "id": "la-cotorra",
+    "title": "La Cotorra",
+    "price": "16500.00",
+    "description": "Villa para grupos grandes (6 pax). Infinity Pool, bar privado y vistas panorámicas privilegiadas.",
+    "images": [
+      "img/La-Cotorra.webp",
+      "img/image_8.jpg",
+      "img/image_9.jpg"
+    ]
+  },
+  {
+    "id": "los-cotorritos",
+    "title": "Los Cotorritos",
+    "price": "16500.00",
+    "description": "Conjunto de 3 villas de lujo con alberca y chimenea. Ideal para familias o grupos de amigos en busca de paz.",
+    "images": [
+      "img/Los-Cotorritos.jpg",
+      "img/image_10.jpg",
+      "img/image_1.jpg"
+    ]
+  }
+]

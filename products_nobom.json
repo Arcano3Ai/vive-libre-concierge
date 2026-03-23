@@ -1,0 +1,1387 @@
+﻿{
+    "products":  [
+                     {
+                         "id":  8744871035058,
+                         "title":  "Pájaro Azul",
+                         "handle":  "pajaro-azul",
+                         "body_html":  "\u003cp\u003eEl Pájaro Azul, construida en contenedor de lujo y rodeada de naturaleza, es el refugio ideal para aventureros y amantes de lo rústico que buscan una experiencia diferente. Su estilo moderno con toques robustos crea un ambiente íntimo y auténtico, perfecto para desconectarte y vivir la aventura sin perder comodidad.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003eUno de sus detalles más especiales es la ventana en el techo justo arriba de la cama, donde podrás recostarte y ver las estrellas por la noche, creando momentos únicos y memorables en plena tranquilidad del bosque.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T09:00:33-06:00",
+                         "created_at":  "2026-02-24T09:00:32-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47107120070834,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3100.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744871035058,
+                                              "created_at":  "2026-02-24T09:00:32-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43870961041586,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Pajaro-Azul-Cabana-Img-1_d65cd72c-38c2-4ccf-9ffe-5eb664b1ef22.webp?v=1772017381",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870961139890,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Pajaro-Azul-Cabana-Img-2_40d9374d-3f4f-4eda-9ac8-2a6f600c0202.webp?v=1772017381",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870961107122,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_4156-scaled_24c1325f-7fd0-4e6b-b3a3-648e5f289fd8.jpg?v=1772017381",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43870961991858,
+                                            "created_at":  "2026-02-25T05:02:20-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_4392-scaled_ba0d47e8-b4b1-485d-b543-bc5dc482b946.jpg?v=1772017381",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870961074354,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/PHOTO-2024-10-30-12-26-59_197e91af-1c8a-4a07-a633-b1dc28fc736f.jpg?v=1772017381",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870961008818,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_4486-2-scaled_2a381aa6-4be8-4959-8844-70b7a86eb6ba.jpg?v=1772017381",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43870960943282,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Pajaro-Azul-Cabana-Img-5_dc75fa06-eaee-4138-afc5-40c242b4e67e.webp?v=1772017381",
+                                            "width":  800,
+                                            "height":  1398
+                                        },
+                                        {
+                                            "id":  43870960976050,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Pajaro-Azul-Cabana-Img-3_f71f970e-7e3a-40b6-96e6-d9c8744768fb.webp?v=1772017381",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870960812210,
+                                            "created_at":  "2026-02-25T05:02:19-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T05:03:01-06:00",
+                                            "product_id":  8744871035058,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Pajaro-Azul-Cabana-Img-4_58773e88-3f7c-4f6d-bda6-7d58bd64787c.webp?v=1772017381",
+                                            "width":  1200,
+                                            "height":  1821
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744862777522,
+                         "title":  "El Búho",
+                         "handle":  "el-buho",
+                         "body_html":  "\u003cp\u003eEl Búho es una experiencia de hospedaje que combina elegancia y naturaleza. Inspirada en las carpas africanas, ofrece un refugio íntimo y acogedor donde el descanso se mezcla con el sonido del bosque y las estrellas.\u003c/p\u003e\n\u003cp\u003eEs el lugar perfecto para desconectarte del ruido, reconectar contigo y vivir la magia de la montaña con un toque de exclusividad.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T08:58:30-06:00",
+                         "created_at":  "2026-02-24T08:58:29-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47107069214898,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3900.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744862777522,
+                                              "created_at":  "2026-02-24T08:58:29-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43870927061170,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0304-scaled_4876c88e-281a-4c06-acc7-9fe48ea66f84.jpg?v=1772017222",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870927093938,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0282-1-scaled_c6c068c5-d0d1-4e52-84a1-9259aef73f53.jpg?v=1772017222",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870926995634,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_9842-scaled_eb2a14d4-2efc-4cba-adc1-c896d8455daf.jpg?v=1772017222",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870926864562,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/El-Buho-Cabana-Img-2_f937904f-e322-4d89-9551-9d88f0d48d52.webp?v=1772017222",
+                                            "width":  1200,
+                                            "height":  900
+                                        },
+                                        {
+                                            "id":  43870926930098,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/El-Buho-Cabana-Img-4_f4a788e9-9edf-42ae-8a82-cda3f9505667.webp?v=1772017222",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870927159474,
+                                            "created_at":  "2026-02-25T04:59:50-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_4345-scaled_91c40615-b276-4a9f-8871-013feefa07cb.jpg?v=1772017222",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870927028402,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0284-scaled_4de07416-1727-4705-84cb-c331c4421a1f.jpg?v=1772017222",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870927126706,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0291_2-scaled_540f0de2-27d8-4ec5-ac70-d42958e37eae.png?v=1772017222",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43870926897330,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/El-Buho-Cabana-Img-3_392ba36b-e3a7-4556-b0d5-1df63bb77b8a.webp?v=1772017222",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870926962866,
+                                            "created_at":  "2026-02-25T04:59:49-06:00",
+                                            "position":  10,
+                                            "updated_at":  "2026-02-25T05:00:22-06:00",
+                                            "product_id":  8744862777522,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/El-Buho-Cabana-Img-5_a6a45b62-585b-4ef5-8fc0-5f81b2dac0ab.webp?v=1772017222",
+                                            "width":  1200,
+                                            "height":  1600
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744847409330,
+                         "title":  "El Colibrí",
+                         "handle":  "el-colibri",
+                         "body_html":  "\u003cp\u003eEl Colibrí es una cabaña moderna construida a partir de contenedores, pensada para quienes buscan una experiencia única en la naturaleza sin renunciar al confort. Su diseño abierto y rodeado de bosque ofrece una conexión directa con el entorno, creando el equilibrio perfecto entre descanso y paisaje.\u003c/p\u003e\n\u003cp\u003eIdeal para parejas, combina privacidad, vistas espectaculares y todas las comodidades necesarias para disfrutar una estancia relajante y diferente en la montaña.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T08:55:24-06:00",
+                         "created_at":  "2026-02-24T08:54:38-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47106971041970,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3900.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744847409330,
+                                              "created_at":  "2026-02-24T08:54:38-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43870903500978,
+                                            "created_at":  "2026-02-25T04:54:20-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.27.11-p.m_f0898bed-fbbf-4b64-848b-37ec6c14f254.png?v=1772016904",
+                                            "width":  1002,
+                                            "height":  1340
+                                        },
+                                        {
+                                            "id":  43870903533746,
+                                            "created_at":  "2026-02-25T04:54:20-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.28.57-p.m-1_8718ac9c-c3e7-4a9d-8ba1-ccf27dc7db75.png?v=1772016904",
+                                            "width":  1778,
+                                            "height":  1318
+                                        },
+                                        {
+                                            "id":  43870903468210,
+                                            "created_at":  "2026-02-25T04:54:20-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.28.57-p.m_bbf237db-53f0-4cb8-a49b-bead219f71bc.png?v=1772016904",
+                                            "width":  1778,
+                                            "height":  1318
+                                        },
+                                        {
+                                            "id":  43870903435442,
+                                            "created_at":  "2026-02-25T04:54:20-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.29.45-p.m_72924ab0-3708-4724-9e85-a2bb177c94e5.png?v=1772016904",
+                                            "width":  1778,
+                                            "height":  1342
+                                        },
+                                        {
+                                            "id":  43870903402674,
+                                            "created_at":  "2026-02-25T04:54:19-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.29.33-p.m_ac64c7ff-843f-44c4-b72b-4eee8d544eed.png?v=1772016904",
+                                            "width":  968,
+                                            "height":  1346
+                                        },
+                                        {
+                                            "id":  43870903369906,
+                                            "created_at":  "2026-02-25T04:54:19-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.30.05-p.m_8d5154fc-3872-4f9f-88df-92d57875fbf3.png?v=1772016904",
+                                            "width":  996,
+                                            "height":  1314
+                                        },
+                                        {
+                                            "id":  43870903566514,
+                                            "created_at":  "2026-02-25T04:54:20-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.29.19-p.m_5fe1d16e-4a61-4ba6-a448-1d7a81cfc918.png?v=1772016904",
+                                            "width":  1798,
+                                            "height":  1348
+                                        },
+                                        {
+                                            "id":  43870903337138,
+                                            "created_at":  "2026-02-25T04:54:19-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.30.16-p.m_c9a98a34-28d6-4f34-b5cb-e03ab3c72274.png?v=1772016904",
+                                            "width":  974,
+                                            "height":  1336
+                                        },
+                                        {
+                                            "id":  43870903599282,
+                                            "created_at":  "2026-02-25T04:54:21-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T04:55:04-06:00",
+                                            "product_id":  8744847409330,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Screenshot-2025-11-10-at-3.30.22-p.m_10cff784-c424-44d8-b889-b219da4c0fb3.png?v=1772016904",
+                                            "width":  884,
+                                            "height":  1312
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744837152946,
+                         "title":  "El Águila",
+                         "handle":  "el-aguila",
+                         "body_html":  "\u003cp\u003eEl Águila 1 es el espacio perfecto para parejas que buscan un escape romántico, íntimo y especial. Su diseño tipo alpino, acogedor y elegante, crea una atmósfera cálida rodeada de naturaleza, ideal para celebrar aniversarios, fechas importantes o simplemente disfrutar un fin de semana juntos.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003eCon una distribución cómoda, acabados de calidad y amenidades pensadas para el descanso, esta villa ofrece privacidad, comodidad y un ambiente único que invita a relajarte y desconectarte del día a día.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T08:51:55-06:00",
+                         "created_at":  "2026-02-24T08:51:54-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47106901639346,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3900.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744837152946,
+                                              "created_at":  "2026-02-24T08:51:54-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43871056756914,
+                                            "created_at":  "2026-02-25T05:08:29-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/2f9b00fb-ab7d-4c8c-8593-6556bee3a6ec_f23b8d54-edca-4882-8f30-52057dfe70e8.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056560306,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-4_9a8d8dee-2083-4d0f-9ed3-406df0b5e514.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056396466,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/6c263ed7-89ac-468c-bc13-551f5ca054fe_72ff9e05-1016-4d78-ae38-c3009594fc8a.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056593074,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-5_32c4bdbd-3833-489d-bfdf-4b8291825fa6.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056429234,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-6_c9a5af49-e8f6-4175-941f-45dec04908a5.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056625842,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-2_9eb29c94-05bb-441f-9c12-80834e04bad9.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056462002,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-3_61a72415-87db-4b87-b9a5-72c3849ae739.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056527538,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-8_59bd985e-c306-446b-a171-cf91e980d2f4.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056658610,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/05008a76-1a80-4ffc-ac6a-87109768ad16_59970936-1824-4824-8ad2-3b85892bb3ae.jpg?v=1772017743",
+                                            "width":  1042,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43871056494770,
+                                            "created_at":  "2026-02-25T05:08:28-06:00",
+                                            "position":  10,
+                                            "updated_at":  "2026-02-25T05:09:03-06:00",
+                                            "product_id":  8744837152946,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cabana-ElAguila-7_20820a31-5dce-4e4d-9add-9cdb44ec5a1b.jpg?v=1772017743",
+                                            "width":  1200,
+                                            "height":  1600
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744658763954,
+                         "title":  "El Águila 2",
+                         "handle":  "el-aguila-2",
+                         "body_html":  "\u003cp\u003eEl Águila 2 es una cabaña alpina con un estilo moderno que combina comodidad y calidez en cada detalle. Rodeada de naturaleza, ofrece un ambiente íntimo y relajante, ideal para descansar y desconectarse del ritmo diario.\u003c/p\u003e\n\u003cp\u003eSu diseño acogedor, junto con sus espacios pensados para disfrutar del paisaje, la convierten en el refugio perfecto para parejas que buscan una experiencia tranquila y única en la montaña.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T07:22:26-06:00",
+                         "created_at":  "2026-02-24T07:22:25-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47105743913138,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3900.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744658763954,
+                                              "created_at":  "2026-02-24T07:22:25-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43870922965170,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0213-scaled_d4944d42-432f-49ae-80dc-971d251f06b0.jpg?v=1772017045",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43870922899634,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0227-scaled_3582441f-51ab-421f-8180-128a7198c001.jpg?v=1772017045",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870922932402,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0228-scaled_2ac6cc75-1bfd-458b-af0f-c85ecc8d7b0d.jpg?v=1772017045",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870922997938,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0238-scaled_fbec3533-81fd-4e81-b981-b821bca15331.jpg?v=1772017045",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43870923030706,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_0243-scaled_38f64347-a7e9-4b29-86b3-af44b8303fe5.jpg?v=1772017045",
+                                            "width":  2560,
+                                            "height":  1707
+                                        },
+                                        {
+                                            "id":  43870922834098,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_1035-rotated_5d742aca-793c-485e-ab35-82c3173d068b.jpg?v=1772017045",
+                                            "width":  1080,
+                                            "height":  1620
+                                        },
+                                        {
+                                            "id":  43870922866866,
+                                            "created_at":  "2026-02-25T04:57:24-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T04:57:25-06:00",
+                                            "product_id":  8744658763954,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_1046-rotated_5925e754-5b75-4e6c-a6a4-4efd66b1db96.jpg?v=1772017045",
+                                            "width":  1080,
+                                            "height":  1620
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744658370738,
+                         "title":  "El Cotorro",
+                         "handle":  "el-cotorro",
+                         "body_html":  "\u003cp\u003eEl Cotorro es una villa de lujo diseñada especialmente para parejas que buscan desconectarse, celebrar algo especial o simplemente disfrutar un momento íntimo entre montañas.\u003c/p\u003e\n\u003cp\u003eSu ambiente cálido, elegante y rodeado de naturaleza crea el escenario perfecto para aniversarios, escapadas románticas o fines de semana en absoluto descanso.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T07:21:08-06:00",
+                         "created_at":  "2026-02-24T07:21:07-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47105741848754,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "3900.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744658370738,
+                                              "created_at":  "2026-02-24T07:21:07-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43871078973618,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/ElCotorro-Exterior1.jpg?v=1772017981",
+                                            "width":  1920,
+                                            "height":  1947
+                                        },
+                                        {
+                                            "id":  43871078645938,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/ElCotorro-Interior.jpg?v=1772017981",
+                                            "width":  1920,
+                                            "height":  1241
+                                        },
+                                        {
+                                            "id":  43871078842546,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/ElCotorro-ExteriorHero_591ca461-1767-43d1-8d9b-24d1587dad2d.jpg?v=1772017981",
+                                            "width":  1920,
+                                            "height":  1440
+                                        },
+                                        {
+                                            "id":  43871078613170,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/Cama-ElCotorros.jpg?v=1772017981",
+                                            "width":  1182,
+                                            "height":  1222
+                                        },
+                                        {
+                                            "id":  43871078809778,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/LRFV7241_1f4240da-75cb-44e1-86f7-1d3b5c9cfa09.jpg?v=1772017981",
+                                            "width":  1087,
+                                            "height":  723
+                                        },
+                                        {
+                                            "id":  43871078580402,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/110-ViveLibre_d33846b3-998d-4dd6-8ac0-75065004a4aa.webp?v=1772017981",
+                                            "width":  960,
+                                            "height":  953
+                                        },
+                                        {
+                                            "id":  43871078678706,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/49-ViveLibre_cc873eca-c06c-4e6e-949b-de6ccfd0d695.webp?v=1772017981",
+                                            "width":  1087,
+                                            "height":  723
+                                        },
+                                        {
+                                            "id":  43871079071922,
+                                            "created_at":  "2026-02-25T05:12:02-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/CBZW8336_9fbb1efe-402a-48ca-bff7-930a7289ef22.jpg?v=1772017981",
+                                            "width":  1280,
+                                            "height":  851
+                                        },
+                                        {
+                                            "id":  43871078777010,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/NLHE9037_be52308a-ed6b-43ab-b0b7-5d997c0e4ab1.jpg?v=1772017981",
+                                            "width":  1280,
+                                            "height":  851
+                                        },
+                                        {
+                                            "id":  43871078711474,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  10,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/AEIAE9658_2fbf2260-deab-42ac-b084-9271bed26105.jpg?v=1772017981",
+                                            "width":  766,
+                                            "height":  1024
+                                        },
+                                        {
+                                            "id":  43871078744242,
+                                            "created_at":  "2026-02-25T05:12:01-06:00",
+                                            "position":  11,
+                                            "updated_at":  "2026-02-25T05:13:01-06:00",
+                                            "product_id":  8744658370738,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/2bcd0aa2-d14c-4060-bd99-8101715f96a3_583f3674-77e7-4db2-835f-8f7ecb373b94.jpg?v=1772017981",
+                                            "width":  1200,
+                                            "height":  1600
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8744657649842,
+                         "title":  "Los Cotorritos",
+                         "handle":  "los-cotorritos",
+                         "body_html":  "\u003cp\u003eLos Cotorritos son un conjunto de tres villas de lujo ubicadas en un entorno natural único. Diseñadas para familias, parejas o grupos de amigos, estas cabañas combinan comodidad, amplitud y un ambiente acogedor que invita a disfrutar, descansar y convivir.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003eCada villa ofrece espacio para 4 adultos y 2 menores, con la posibilidad de agregar adultos extra, lo que las convierte en una opción flexible para diferentes tipos de grupos.\u003c/p\u003e",
+                         "published_at":  "2026-02-24T07:18:10-06:00",
+                         "created_at":  "2026-02-24T07:18:09-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47105738506418,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  true,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "16500.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8744657649842,
+                                              "created_at":  "2026-02-24T07:18:09-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43870897373362,
+                                            "created_at":  "2026-02-25T04:50:54-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/1-LosCotorritos.jpg?v=1772016690",
+                                            "width":  1920,
+                                            "height":  1280
+                                        },
+                                        {
+                                            "id":  43870897078450,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/CDFX2554_b2af70e5-4229-4603-8994-df9aa6441900.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1066
+                                        },
+                                        {
+                                            "id":  43870897111218,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/CGNW7874_7fbb2843-de31-48f4-bcb4-c0cb2258707b.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1065
+                                        },
+                                        {
+                                            "id":  43870897275058,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/RZSQ6744_15661502-2e39-44d9-8821-aa4ed20c4d03.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1065
+                                        },
+                                        {
+                                            "id":  43870897176754,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/NYPAE1596_41d89cdc-e08e-47ae-98f5-1160fcef448a.jpg?v=1772016690",
+                                            "width":  1065,
+                                            "height":  1065
+                                        },
+                                        {
+                                            "id":  43870897307826,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/UODY5050_4a0ba3ec-8eb1-4100-8a1b-468b6b9cf147.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1065
+                                        },
+                                        {
+                                            "id":  43870897209522,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/YHSR0647-1_84418793-3434-4441-a57f-4098d9cf1d44.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1065
+                                        },
+                                        {
+                                            "id":  43870897143986,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/dbff01c2-780d-4bce-aead-969e5f1b39a7_ccb41b31-991b-4332-8165-9c390edab965.jpg?v=1772016690",
+                                            "width":  1600,
+                                            "height":  1200
+                                        },
+                                        {
+                                            "id":  43870897340594,
+                                            "created_at":  "2026-02-25T04:50:54-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/121-ViveLibre_13d5b7a2-3f33-4b1d-96bc-63c94717f224.webp?v=1772016690",
+                                            "width":  960,
+                                            "height":  628
+                                        },
+                                        {
+                                            "id":  43870897242290,
+                                            "created_at":  "2026-02-25T04:50:51-06:00",
+                                            "position":  10,
+                                            "updated_at":  "2026-02-25T04:51:30-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/bdfc3b1d-bbea-4a07-96d1-a1d0aa7a4351_c16256b3-df44-4582-bbc5-6950a6d18aae.jpg?v=1772016690",
+                                            "width":  1200,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43870897438898,
+                                            "created_at":  "2026-02-25T04:50:54-06:00",
+                                            "position":  11,
+                                            "updated_at":  "2026-02-25T04:50:55-06:00",
+                                            "product_id":  8744657649842,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/3-LosCotorritos.jpg?v=1772016655",
+                                            "width":  1280,
+                                            "height":  1920
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  8740135764146,
+                         "title":  "La Cotorra",
+                         "handle":  "la-cotorra",
+                         "body_html":  "\u003cp\u003e\u003cspan\u003eCabaña de lujo con \u003c/span\u003e\u003cstrong data-start=\"161\" data-end=\"221\"\u003evistas panorámicas privilegiadas a la Sierra de Santiago.\u003cspan\u003e \u003c/span\u003e\u003c/strong\u003e\u003cspan\u003e Es el espacio perfecto para desconectarte del ruido de la ciudad y disfrutar de los \u003c/span\u003e\u003cstrong data-start=\"360\" data-end=\"383\"\u003emejores atardeceres\u003c/strong\u003e\u003cspan\u003e en un ambiente privado y exclusivo.\u003c/span\u003e\u003cbr data-start=\"419\" data-end=\"422\"\u003e\u003cspan\u003eEsta villa es ideal para grupos grandes, reuniones familiares o escapadas con amigos que buscan confort, amplitud y una experiencia premium entre montañas.\u003c/span\u003e\u003c/p\u003e",
+                         "published_at":  "2026-02-20T09:09:09-06:00",
+                         "created_at":  "2026-02-20T09:09:07-06:00",
+                         "updated_at":  "2026-03-22T10:45:06-06:00",
+                         "vendor":  "Vive Libree",
+                         "product_type":  "",
+                         "tags":  [
+                                      "bookeasy"
+                                  ],
+                         "variants":  [
+                                          {
+                                              "id":  47084432785586,
+                                              "title":  "Default Title",
+                                              "option1":  "Default Title",
+                                              "option2":  null,
+                                              "option3":  null,
+                                              "sku":  null,
+                                              "requires_shipping":  false,
+                                              "taxable":  true,
+                                              "featured_image":  null,
+                                              "available":  true,
+                                              "price":  "16500.00",
+                                              "grams":  0,
+                                              "compare_at_price":  null,
+                                              "position":  1,
+                                              "product_id":  8740135764146,
+                                              "created_at":  "2026-02-20T09:09:07-06:00",
+                                              "updated_at":  "2026-03-22T10:45:06-06:00"
+                                          }
+                                      ],
+                         "images":  [
+                                        {
+                                            "id":  43810221392050,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  1,
+                                            "updated_at":  "2026-02-20T05:02:11-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/104-ViveLibre.webp?v=1771585331",
+                                            "width":  1280,
+                                            "height":  960
+                                        },
+                                        {
+                                            "id":  43810222080178,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  2,
+                                            "updated_at":  "2026-02-20T05:02:10-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/84a6bb94-1d05-4bf5-80fa-89fa74bca4ef.jpg?v=1771585330",
+                                            "width":  1492,
+                                            "height":  1600
+                                        },
+                                        {
+                                            "id":  43810222604466,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  3,
+                                            "updated_at":  "2026-02-20T05:02:10-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/1d3c77e3-f7dc-4f07-8413-e7190b4b7165.jpg?v=1771585330",
+                                            "width":  960,
+                                            "height":  626
+                                        },
+                                        {
+                                            "id":  43810221490354,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  4,
+                                            "updated_at":  "2026-02-20T05:02:11-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/122-ViveLibre.webp?v=1771585331",
+                                            "width":  960,
+                                            "height":  1388
+                                        },
+                                        {
+                                            "id":  43810234335410,
+                                            "created_at":  "2026-02-20T05:03:15-06:00",
+                                            "position":  5,
+                                            "updated_at":  "2026-02-20T05:03:17-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/cropped-5-LaCotorra-1.jpg?v=1771585397",
+                                            "width":  1920,
+                                            "height":  1008
+                                        },
+                                        {
+                                            "id":  43810222571698,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  6,
+                                            "updated_at":  "2026-02-20T05:02:10-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/BCANE7064.jpg?v=1771585330",
+                                            "width":  1600,
+                                            "height":  1200
+                                        },
+                                        {
+                                            "id":  43810238365874,
+                                            "created_at":  "2026-02-20T05:03:48-06:00",
+                                            "position":  7,
+                                            "updated_at":  "2026-02-20T05:03:49-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/IMG_4156-scaled.jpg?v=1771585429",
+                                            "width":  1707,
+                                            "height":  2560
+                                        },
+                                        {
+                                            "id":  43810221457586,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  8,
+                                            "updated_at":  "2026-02-20T05:02:11-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/ba0c517a-f413-41c5-b7d7-ef47c8c30219.jpg?v=1771585331",
+                                            "width":  960,
+                                            "height":  1159
+                                        },
+                                        {
+                                            "id":  43810220671154,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  9,
+                                            "updated_at":  "2026-02-20T05:02:10-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/162-ViveLibre.webp?v=1771585330",
+                                            "width":  960,
+                                            "height":  626
+                                        },
+                                        {
+                                            "id":  43810222473394,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  10,
+                                            "updated_at":  "2026-02-20T05:02:11-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/88-ViveLibre.webp?v=1771585331",
+                                            "width":  1600,
+                                            "height":  1200
+                                        },
+                                        {
+                                            "id":  43810219950258,
+                                            "created_at":  "2026-02-20T05:02:08-06:00",
+                                            "position":  11,
+                                            "updated_at":  "2026-02-20T05:02:09-06:00",
+                                            "product_id":  8740135764146,
+                                            "variant_ids":  [
+
+                                                            ],
+                                            "src":  "https://cdn.shopify.com/s/files/1/0758/3937/3490/files/153-ViveLibre.webp?v=1771585329",
+                                            "width":  960,
+                                            "height":  632
+                                        }
+                                    ],
+                         "options":  [
+                                         {
+                                             "name":  "Title",
+                                             "position":  1,
+                                             "values":  [
+                                                            "Default Title"
+                                                        ]
+                                         }
+                                     ]
+                     }
+                 ]
+}
+
